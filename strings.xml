@@ -1,0 +1,9 @@
+<resources>
+    <!-- intent xplisit -->
+    <string name="awal">Selamat Datang</string>
+    <string name="tengah">Ini Isinya</string>
+    <string name="akhir">kembali</string>
+
+    <!-- intent inplisit -->
+    <string name="nomer">telpon</string>
+</resources>
